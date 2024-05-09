@@ -1,1 +1,1 @@
-Preview here [link](https://jemb4.github.io/NxN-matrix/)
+Preview here [link](https://jemb4.github.io/snake-game/)
